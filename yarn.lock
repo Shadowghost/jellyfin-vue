@@ -2005,10 +2005,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/dompurify@^2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@types/dompurify/-/dompurify-2.0.4.tgz#25fce15f1f4b1bc0df0ad957040cf226416ac2d7"
-  integrity sha512-y6K7NyXTQvjr8hJNsAFAD8yshCsIJ0d+OYEFzULuIqWyWOKL2hRru1I+rorI5U0K4SLAROTNuSUFXPDTu278YA==
+"@types/dompurify@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@types/dompurify/-/dompurify-2.2.0.tgz#edd24cc4a43a8051b825fc13a6ed8695e77bffa0"
+  integrity sha512-hfW7oNQ9Zeiy+Jd1nGswjui3Kn+yrUC5fbKzR3j9f9x7mT1bYskzI1YQU66BlD37SxKPdQBoMJ2yaa+GlkEqcw==
   dependencies:
     "@types/trusted-types" "*"
 
