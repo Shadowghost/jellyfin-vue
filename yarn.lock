@@ -9568,10 +9568,10 @@ mute-stream@0.0.8:
   resolved "https://registry.npmjs.org/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
-mux.js@^5.9.2:
-  version "5.9.2"
-  resolved "https://registry.npmjs.org/mux.js/-/mux.js-5.9.2.tgz#f6a49685e6785517fbff3fad604a4e33424207d9"
-  integrity sha512-9UAEYfcWqCp9hJ5NnT6xZbj2XGmt2GATzNHaYddlJ2AyeDcTGiaknUKtbUlYiw5rqLt0FN9upa+GdQYWX5GxgQ==
+mux.js@^5.11.0:
+  version "5.11.0"
+  resolved "https://registry.npmjs.org/mux.js/-/mux.js-5.11.0.tgz#3c2c1fbd9d30720af2a1b12c1f2a2840c63100f6"
+  integrity sha512-Q/iLfohHh5Pp6lW7EFtcxNuaCNJ3Ruywfy46pWLsY+yIxR1kXXImYY1wOhg8jLdBMs1kRaZqsiB4Zncsiw0a2Q==
   dependencies:
     "@babel/runtime" "^7.11.2"
 
